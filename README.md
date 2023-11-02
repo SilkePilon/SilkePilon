@@ -1,11 +1,11 @@
 Hi 👋 My name is Silke Pilon
 ============================
 # 💫 About Me:
-🌍  I'm based in the Netherlands<br>✉️  You can contact me at devsilkepilon@gmail.com<br>🚀  I'm currently working on CustomCapes.org<br>🧠  I'm learning Python, Flask, Html, Css
+🌍  I'm based in the Netherlands<br>✉️  You can contact me at devsilkepilon@gmail.com<br>🚀  I'm currently working on The Lodestone Project - Create Minecraft bots in python!<br>🧠  I'm learning Python, Flask, Html, Css, React, C++
 
 
 ## 🌐 Socials:
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@customcapes) 
+
 
 # 💻 Tech Stack:
 <p align="left"> <a href="https://github.com/aspekts"><img src="https://skillicons.dev/icons?i=aws,azure,bash,bootstrap,cpp,cloudflare,css,discord,bots,express,fastapi,gcp,git,heroku,github,v,vim,regex,html,js,jquery,nodejs,linux,md,mysql,redis,mongodb,netlify,nextjs,py,react,sqlite,swift,ts,vscode"> </a> </p>
