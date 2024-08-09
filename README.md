@@ -46,6 +46,7 @@
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=silkepilon&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=silkepilon&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=silkepilon&theme=transparent" height="180em" alt="Commitments"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=silkepilon)](https://github.com/anuraghazra/github-readme-stats" height="180em" alt="Commitments"/>
 </div>
 
 <p align="center">
@@ -67,10 +68,5 @@
   </a>
 </p>
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" alt="Go to Top" /></a></p>
-  
-
-
-### Time
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=silkepilon)](https://github.com/anuraghazra/github-readme-stats)
 
 
