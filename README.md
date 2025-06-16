@@ -52,15 +52,15 @@
 
 <h3 align="center">Connect with Me</h3>
 <p align="center">
-  <a href="mailto:samarjit9203@gmail.com" target="_blank">
+  <a href="mailto:devsilkepilon@gmail.com" target="_blank">
     <img align="center" src="assets/gmail.png" alt="mail" height="50" width="55" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://samarjit-sahoo.vercel.app" target="_blank">
+  <a href="https://silkepilon.vercel.app" target="_blank">
     <img align="center" src="assets/web.png" alt="website" height="50" width="50" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/samarjit-sahoo/" target="_blank">
+  <a href="https://linkedin.com/in/silke-pilon/" target="_blank">
     <img align="center" src="assets/linkedin.png" alt="linkedin" height="60" width="60" />
   </a>
 </p>
