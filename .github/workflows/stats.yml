@@ -1,0 +1,31 @@
+name: Update stats
+
+on:
+    schedule:
+        - cron: "0 11 * * *" # every 24 hours
+    push:
+        branches:
+            - main
+
+jobs:
+    publish:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v4
+              with:
+                  fetch-depth: 0
+            - name: Generate README.md
+              uses: orhun/profile-readme-stats@master
+              with:
+                  token: ${{ secrets.USER_TOKEN }}
+                  lifetimeStreak: true
+            - name: Update README.md
+              shell: bash
+              run: |
+                  if [[ "$(git status --porcelain)" != "" ]]; then
+                    git config user.name 'github-actions[bot]'
+                    git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+                    git add *.md
+                    git commit -m "Update README.md"
+                    git push
+                  fi
